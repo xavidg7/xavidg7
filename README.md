@@ -11,7 +11,7 @@
 
 - 🌱 I’m exploring advanced topics in deep learning and artificial intelligence.
 - 💬 Ask me about Python, data science, or ML algorithms.
-- 📫 How to reach me: [delgiudice.1967219@studenti.uniroma1.it](mailto:xavier.delgiudice@gmail.com) | [LinkedIn](https://www.linkedin.com/in/xavier-del-giudice-56b422292/)
+- 📫 How to reach me: [xavier.delgiudice@gmail.com](mailto:xavier.delgiudice@gmail.com) | [LinkedIn](https://www.linkedin.com/in/xavier-del-giudice-56b422292/)
 
 ---
 
